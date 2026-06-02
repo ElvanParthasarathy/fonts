@@ -1,2 +1,0 @@
-designer: "Jona Saucedo"
-link: ""

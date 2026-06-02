@@ -1,2 +1,0 @@
-designer: "But Ko"
-link: ""
